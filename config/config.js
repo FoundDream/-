@@ -76,7 +76,7 @@ var config = {
       "./images/pro-2.png",
       "https://github.com/FoundDream/",
       "个人简历",
-      "采用HTML,CSS,Javascript编写的智能五子棋人机对战<br>2024/3/10",
+      "采用HTML,CSS,Javascript编写的个人简历<br>2024/3/10",
     ],
   ],
 
