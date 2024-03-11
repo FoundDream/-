@@ -6,7 +6,7 @@
 
 ## 演示
 
-[网页演示地址](https://happysnaker.github.io/Resume/)
+[网页演示地址](www.ziwen.xyz)
 
 在手机或平板或电脑上查看该网页。
 
